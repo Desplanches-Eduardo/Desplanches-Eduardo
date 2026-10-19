@@ -22,5 +22,5 @@ Java com Spring Boot. Antes disso, HTML, CSS e JavaScript.
 
 ## Contato
 
-- desplancheseduardo@gmail.com
+- eduardodasantos33@gmail.com
 - ele/dele
