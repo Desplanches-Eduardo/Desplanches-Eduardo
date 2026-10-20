@@ -16,8 +16,10 @@ disso, HTML, CSS e JavaScript.
   Boot para cadastro de ninjas e missões, com controller, service e repository separados, telas
   em Thymeleaf e as rotas documentadas no Swagger.
 - [CadastroDeFuncionarios](https://github.com/Desplanches-Eduardo/CadastroDeFuncionarios) — a mesma
-  ideia do de ninjas, agora para funcionários e tarefas, só com o backend: as telas ficam para
-  depois.
+  ideia do de ninjas, agora para funcionários e tarefas: a API em Spring Boot e o
+  [frontend em React](https://github.com/Desplanches-Eduardo/cadastro-funcionarios-web) em outro
+  repositório, um quadro onde cada tarefa é uma coluna e cada funcionário é uma ficha que se
+  arrasta de uma para outra.
 - [organiza-downloads](https://github.com/Desplanches-Eduardo/organiza-downloads) — script em
   Python que arruma minha pasta `~/Downloads` por tipo de arquivo, rodando pelo cron todo dia.
 - [To-do-List](https://github.com/Desplanches-Eduardo/To-do-List) — lista de tarefas em
